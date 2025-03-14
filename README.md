@@ -1,4 +1,4 @@
-## Hi there 👋
+##Can't afford the audits to become mainnet jeff
 
 <!--
 **testnetjeff/testnetjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
